@@ -38,6 +38,11 @@ Headroom-the-binary is the right call when you can install things and run a prox
 
 ## Get started (30 seconds)
 
+```bash
+git clone https://github.com/roman-ryzenadvanced/headroom-skill.git
+cd headroom-skill
+```
+
 Pick the integration mode that matches your agent:
 
 ### 1. As agent rules (works everywhere)
@@ -94,7 +99,7 @@ Realistic savings on common agent workloads (numbers from the upstream Headroom 
 ## Repository layout
 
 ```
-headroom-skill-portable/
+headroom-skill/                       (cloned from github.com/roman-ryzenadvanced/headroom-skill)
 ├── README.md                     this file
 ├── LICENSE                       Apache 2.0 (matches upstream)
 ├── NOTICE                        attribution notice
